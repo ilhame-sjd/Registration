@@ -44,7 +44,7 @@ function create(){
 	}
 	return false;
 }
-// emailExists() method will be here
+
 
 
 }
